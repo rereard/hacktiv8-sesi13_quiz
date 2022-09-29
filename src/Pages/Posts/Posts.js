@@ -15,7 +15,7 @@ const Posts = () => {
             setUsers(dataUsers)
             setLoading(false)
         } catch (e) {
-            console.log(e);
+            //
         }
     }
     const findNameById = (userId) => {
