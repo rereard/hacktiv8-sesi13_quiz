@@ -1,4 +1,4 @@
-## Simple React Router demonstration with data fetched from https://jsonplaceholder.typicode.com/ 
+## Try testing with jest & RTL 
 
 # Getting Started with Create React App
 
